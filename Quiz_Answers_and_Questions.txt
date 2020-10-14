@@ -1,0 +1,33 @@
+If you were collecting and storing information about your book collection, a book would be considered an:
+- Entity
+
+Which of the following may not be a multi-valued attribute for the entity book in your book collection?
+- ISBN number
+- title
+
+The  cardinality of the relationship between a doctor and a prescription is:
+- one to many
+
+The descriptive property possessed by each entity is called:
+- attribute
+
+Entity is a:
+- thing or concept in real world
+
+For a weak entity to be meaningful, it must be associated with another entity called as:
+- strong entity
+
+Consider the FSM shown below. Which strings are recognized by this FSM?
+- comment
+- commit
+- comet
+
+Consider a system which consists of three subsystems, namely, A, B, and C. The FSM representing the behavior of subsystem A consists of 6 states, the FSM representing the behavior of subsystem B consists of 7 states, and the FSM representing the behavior of subsystem C consists of 8 states. The number of states in the FSM of the system obtained from the composition of the FSMs of subsystems A, B and C is:
+- 336
+
+A transition function in a FSM maps a _________ and a present  ____________ to next _____________:
+- input, state, state
+
+FSMs can be:
+- Suited for systems with a finite number of states
+- Used to model control aspects of a system
